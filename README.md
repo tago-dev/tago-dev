@@ -1,4 +1,4 @@
-### Bem-vindo ao perfil do GitHub de Tiago Bettega (Tago)
+### Perfil de Tiago Bettega (Tago) - Desenvolvedor Front-end
 Sou um desenvolvedor front-end com experiência em desenvolvimento web. Atualmente, trabalho como técnico de informática em uma escola, mas também tenho experiência com desenvolvimento de aplicativos web.
 
 Minhas habilidades incluem:
