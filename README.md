@@ -1,4 +1,4 @@
-### Perfil de Tiago (Tago) Bettega - Desenvolvedor Front-end ❤
+### Tiago Bettega - Desenvolvedor Front-end ❤
 Sou um desenvolvedor front-end com experiência em desenvolvimento web. Atualmente, trabalho como técnico de informática em uma escola, mas também tenho experiência com desenvolvimento de aplicativos web.
 
 Minhas habilidades incluem:
