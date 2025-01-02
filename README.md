@@ -16,3 +16,5 @@ Minha paixão pelo desenvolvimento de aplicações web me levou a trabalhar como
 Meus objetivos profissionais incluem continuar crescendo e evoluindo como desenvolvedor front-end, trabalhando em projetos desafiadores e em equipes multidisciplinares.
 
 Se você estiver _interessado_ em trabalhar juntos ou apenas quer bater um papo, não hesite em entrar em contato comigo. Eu adoraria ouvir suas ideias e ver como posso _ajudar_. 💕
+
+[metrics](https://api.githubtrends.io/user/svg/tago-dev/repos?time_range=one_year&loc_metric=changed&theme=dark)
