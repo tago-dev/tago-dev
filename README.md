@@ -1,20 +1,29 @@
-## 👨‍💻 Tiago Bettega - Desenvolvedor Web ❤
-Sou um desenvolvedor front-end com experiência em desenvolvimento web. Atualmente, trabalho como técnico de informática em uma escola, mas também tenho experiência com desenvolvimento de aplicativos web.
+# Tiago Bettega
 
-Minhas habilidades incluem:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagobettega)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tago-dev)
 
-✨ Desenvolvimento web com PHP, JavaScript, Bootstrap, HTML e CSS <br>
-✨ Criação de layouts responsivos <br>
-✨ Conhecimentos básicos de SEO
+## Desenvolvedor Web Full Stack
 
-Eu gosto de trabalhar com projetos _desafiadores_ e sempre estou buscando _aprender_ novas habilidades e tecnologias. No meu tempo livre, gosto de ler sobre desenvolvimento de _aplicações web_ e participar de projetos open-source.
+Desenvolvedor Web Full Stack com experiência na criação de soluções digitais escaláveis. Focado em PHP/Laravel, Python, Java e C#, com conhecimentos em bancos de dados e análise de dados.
 
-Além disso, tenho experiência em _trabalhar em equipe_ e gerenciamento de projetos, tendo trabalhado em projetos de diversos tamanhos e complexidades. Estou sempre buscando _colaborar_ e _aprender_ com colegas de equipe para melhorar minhas habilidades e contribuir para o sucesso do projeto.
+## Habilidades
 
-Minha paixão pelo desenvolvimento de aplicações web me levou a trabalhar como técnico de informática em uma escola, onde tive a oportunidade de aplicar meus conhecimentos e habilidades para ajudar a melhorar a educação e a tecnologia no local.
-
-Meus objetivos profissionais incluem continuar crescendo e evoluindo como desenvolvedor front-end, trabalhando em projetos desafiadores e em equipes multidisciplinares.
-
-Se você estiver _interessado_ em trabalhar juntos ou apenas quer bater um papo, não hesite em entrar em contato comigo. Eu adoraria ouvir suas ideias e ver como posso _ajudar_. 💕
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,cs,angular,dotnet,lua,linux)](https://skillicons.dev)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-800000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-FF6B6B?style=for-the-badge&logo=trello&logoColor=white)
