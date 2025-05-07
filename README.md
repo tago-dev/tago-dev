@@ -1,7 +1,5 @@
-# Tiago Bettega
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagobettega)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tago-dev)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ## Desenvolvedor Web Full Stack
 
@@ -17,4 +15,4 @@ Desenvolvedor Web Full Stack com experiência na criação de soluções digitai
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-![Status](./url)
+
