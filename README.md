@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou Tiago Bettega
 
-## 🚀 Desenvolvedor Web Full Stack
+## Desenvolvedor Web Full Stack
 
 Desenvolvedor Web Full Stack apaixonado por tecnologia, com experiência sólida na criação de soluções digitais escaláveis e inovadoras. Especializado em desenvolvimento backend e frontend, com foco em arquiteturas robustas e experiência do usuário excepcional.
 
 ---
 
-## 💻 Stack Tecnológica
+## Stack Tecnológica
 
 ### Linguagens de Programação
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -24,28 +24,24 @@ Desenvolvedor Web Full Stack apaixonado por tecnologia, com experiência sólida
 
 ---
 
-## 🎯 Áreas de Especialização
+## Áreas de Especialização
 
-- **🔧 Desenvolvimento Backend**: APIs RESTful, microserviços e arquiteturas escaláveis
-- **🎨 Desenvolvimento Frontend**: Interfaces responsivas e experiência do usuário
-- **🗄️ Banco de Dados**: Modelagem, otimização e administração
-- **📊 Análise de Dados**: Extração de insights e relatórios inteligentes
-- **☁️ DevOps**: Deploy, CI/CD e infraestrutura como código
+- **Desenvolvimento Backend**: APIs RESTful, microserviços e arquiteturas escaláveis
+- **Desenvolvimento Frontend**: Interfaces responsivas e experiência do usuário
+- **Banco de Dados**: Modelagem, otimização e administração
+- **Análise de Dados**: Extração de insights e relatórios inteligentes
+- **DevOps**: Deploy, CI/CD e infraestrutura como código
 
 ---
 
-## 📈 GitHub Stats
-
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobettega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobettega&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tago-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tago-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
 
-## 🌟 Sobre Mim
+## Sobre Mim
 
 ```php
 <?php
